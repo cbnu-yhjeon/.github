@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="mailto:<yhjeon@chunhbuk.ac.kr>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="<https://c-bike.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-12B886?style=for-the-badge&logo=velog&logoColor=white"></a>
-  <a href="<포트폴리오_또는_이력서_URL(Notion)>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+ <a href="https://c-bike.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-12B886?style=for-the-badge&logo=velog&logoColor=white"></a>
+<!--   <a href="<포트폴리오_또는_이력서_URL(Notion)>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a> -->
 </p>
 
 ---
