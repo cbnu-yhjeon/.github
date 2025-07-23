@@ -52,19 +52,20 @@
 | 프로젝트 | 주요 내용 | 사용한 기술 | 저장소 |
 |---|---|---|---|
 | **손 글씨 인식 프로그램** | 딥러닝 모델(CNN)을 활용하여 사용자의 손 글씨를 인식하고 텍스트로 변환하는 애플리케이션 개발 | `Python`, `TensorFlow`, `Keras` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Handwriting-recognition-programs) |
-| **견종 인식 프로그램** | 이미지 분류 모델(CNN)을 통해 업로드된 강아지 사진으로부터 견종을 분류하고 정보를 제공하는 시스템 구현 | `Python`, `PyTorch`, `OpenCV` | [🔗 Link]() |
-| **아타리 퐁 게임** | 강화 학습(Reinforcement Learning)을 이용하여 아타리 퐁 게임을 플레이하고 학습하는 AI 에이전트 개발 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](<프로젝트_저장소_URL>) |
-| **아타리 마운틴 카 게임** | 강화 학습(Reinforcement Learning)을 적용하여 아타리 마운틴 카 게임에서 높은 점수를 획득하도록 학습하는 AI 에이전트 구축 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](<프로젝트_저장소_URL>) |
+| **견종 인식 프로그램** | 이미지 분류 모델(CNN)을 통해 업로드된 강아지 사진으로부터 견종을 분류하고 정보를 제공하는 시스템 구현 | `Python`, `PyTorch`, `OpenCV` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Breed-Recognition-Program) |
+| **아타리 퐁 게임** | 강화 학습(Reinforcement Learning)을 이용하여 아타리 퐁 게임을 플레이하고 학습하는 AI 에이전트 개발 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/AdvancedMethods) |
+| **아타리 마운틴 카 게임** | 강화 학습(Reinforcement Learning)을 적용하여 아타리 마운틴 카 게임에서 높은 점수를 획득하도록 학습하는 AI 에이전트 구축 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/DQN) |
 ---
 
 ### 💡 학력 및 활동 (Education & Activities)
 
-- **충북대학교 산업인공지능학과** (20XX.03 ~ 현재)
-  - <수강했던 주요 과목이나 좋았던 과목을 적어보세요. 예: 머신러닝, 데이터베이스 등>
-- **OOO 연구실 학부연구생** (20XX.XX ~ 20XX.XX)
-  - <수행했던 연구나 역할에 대해 간단히 설명>
-- **멋쟁이사자처럼 13기** (2025.03 ~ 2025.12)
-  - <해커톤 수상 이력이나 개발 경험 등을 자유롭게 작성>
+- **충북대학교 산업인공지능학과** (2025.03 ~ 현재)
+  <p align="center">
+  <img src="https://img.shields.io/badge/강화%20학습%20실체-FFD700?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/영상%20처리%20실체-007ACC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/딥러닝%20실체-424242?style=for-the-badge&logoColor=white"/>
+  </p>
+
 
 <br>
 
