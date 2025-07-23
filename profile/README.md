@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<본인_프로필_사진_URL>" width="250" style="border-radius:50%;"/>
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/7624449145935503554" width="250" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">전양호 (Yangho Jeon)</h1>
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:<개인_이메일_주소>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="<개인_기술_블로그_주소(Velog,_Tistory)>"><img src="https://img.shields.io/badge/Tech_Blog-12B886?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="mailto:<yhjeon@chunhbuk.ac.kr>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="<https://c-bike.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-12B886?style=for-the-badge&logo=velog&logoColor=white"></a>
   <a href="<포트폴리오_또는_이력서_URL(Notion)>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
@@ -59,7 +59,7 @@
 
 ### 💡 학력 및 활동 (Education & Activities)
 
-- **충북대학교 산업인공지능학과** (2025.03 ~ 현재)
+- **충북대학교 산업인공지능학과 석사과정** (2025.03 ~ 현재)
 <p align="left">
   <table>
     <tr>
