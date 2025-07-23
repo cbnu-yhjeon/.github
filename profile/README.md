@@ -88,15 +88,3 @@
     </tr>
   </table>
 </p>
-
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=<your-github-id>&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-id>&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
