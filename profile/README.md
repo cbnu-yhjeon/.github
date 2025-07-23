@@ -50,11 +50,11 @@
 교내외 활동을 통해 진행했던 주요 프로젝트들입니다.
 
 | 프로젝트 | 주요 내용 | 사용한 기술 | 저장소 |
-| :--- | :--- | :--- | :---: |
-| **제조 라인 불량품 검출** | 이미지 분류 모델(CNN)을 이용해 컨베이어 벨트 위 제품의 불량을 실시간으로 판별하는 시스템 개발 | `Python`, `PyTorch`, `OpenCV` | [🔗 Link](<프로젝트_저장소_URL>) |
-| **설비 고장 예측 시스템** | 시계열 센서 데이터를 분석하여 주요 설비의 고장 시점을 예측하는 머신러닝 모델 구축 | `Python`, `scikit-learn`, `Pandas` | [🔗 Link](<프로젝트_저장소_URL>) |
-| **개인 프로젝트 A** | <진행했던 개인 프로젝트에 대한 간략한 설명> | `<사용한 기술>` | [🔗 Link](<프로젝트_저장소_URL>) |
-
+|---|---|---|---|
+| **손 글씨 인식 프로그램** | 딥러닝 모델(CNN)을 활용하여 사용자의 손 글씨를 인식하고 텍스트로 변환하는 애플리케이션 개발 | `Python`, `TensorFlow`, `Keras` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Handwriting-recognition-programs) |
+| **견종 인식 프로그램** | 이미지 분류 모델(CNN)을 통해 업로드된 강아지 사진으로부터 견종을 분류하고 정보를 제공하는 시스템 구현 | `Python`, `PyTorch`, `OpenCV` | [🔗 Link]() |
+| **아타리 퐁 게임** | 강화 학습(Reinforcement Learning)을 이용하여 아타리 퐁 게임을 플레이하고 학습하는 AI 에이전트 개발 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](<프로젝트_저장소_URL>) |
+| **아타리 마운틴 카 게임** | 강화 학습(Reinforcement Learning)을 적용하여 아타리 마운틴 카 게임에서 높은 점수를 획득하도록 학습하는 AI 에이전트 구축 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](<프로젝트_저장소_URL>) |
 ---
 
 ### 💡 학력 및 활동 (Education & Activities)
