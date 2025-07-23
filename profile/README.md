@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <br>
+  <b>Robotics</b><br>
+  <img src="https://img.shields.io/badge/ROS2-22538E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autoware-5E80EF?style=for-the-badge&logo=autowarefoundation&logoColor=white"/>
+  <br>
   <b>Tools & Etc.</b><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
