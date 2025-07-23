@@ -1,5 +1,5 @@
 <p align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Deep%20Learning%20from%20Scratch&fontSize=50)
+<img src="http://googleusercontent.com/image_collection/image_retrieval/7624449145935503554" width="250" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">전양호 (Yangho Jeon)</h1>
