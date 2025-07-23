@@ -60,12 +60,33 @@
 ### 💡 학력 및 활동 (Education & Activities)
 
 - **충북대학교 산업인공지능학과** (2025.03 ~ 현재)
-<p align="center">
-  <img src="https://img.shields.io/badge/강화%20학습%20실체-FFD700?style=for-the-badge&logoColor=black"/> : 1학년 1학기 수강과목(2025.03 ~ 2025.06) 이론을 바탕으로 실제 강화 학습 시스템을 구축하고 최적화하는 방법을 학습합니다.
-  <br>
-  <img src="https://img.shields.io/badge/영상%20처리%20실체-007ACC?style=for-the-badge&logoColor=white"/> : 1학년 1학기 수강과목(2025.03 ~ 2025.06) 다양한 영상 처리 기법과 컴퓨터 비전 알고리즘을 실제 프로젝트에 적용하며 깊이 있는 이해를 얻습니다.
-  <br>
-  <img src="https://img.shields.io/badge/딥러닝%20실체-424242?style=for-the-badge&logoColor=white"/> : 1학년 1학기 수강과목(2025.03 ~ 2025.06) 딥러닝 모델의 설계, 구현, 학습 및 평가 과정을 실습하며, 실제 문제 해결 능력을 키웁니다.
+<p align="left">
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/강화%20학습%20실체-FFD700?style=for-the-badge&logoColor=black"/>
+      </td>
+      <td valign="top">
+        : 1학년 1학기 수강과목(2025.03 ~ 2025.06) 이론을 바탕으로 실제 강화 학습 시스템을 구축하고 최적화하는 방법을 학습합니다.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/영상%20처리%20실체-007ACC?style=for-the-badge&logoColor=white"/>
+      </td>
+      <td valign="top">
+        : 1학년 1학기 수강과목(2025.03 ~ 2025.06) 다양한 영상 처리 기법과 컴퓨터 비전 알고리즘을 실제 프로젝트에 적용하며 깊이 있는 이해를 얻습니다.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/딥러닝%20실체-424242?style=for-the-badge&logoColor=white"/>
+      </td>
+      <td valign="top">
+        : 1학년 1학기 수강과목(2025.03 ~ 2025.06) 딥러닝 모델의 설계, 구현, 학습 및 평가 과정을 실습하며, 실제 문제 해결 능력을 키웁니다.
+      </td>
+    </tr>
+  </table>
 </p>
 
 
