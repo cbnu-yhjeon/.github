@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/cbnu-yhjeon/.github/blob/main/outlook_headerbanner_1.gif" width="250" style="border-radius:50%;"/>
+<img src="https://github.com/cbnu-yhjeon/.github/blob/main/outlook_headerbanner_1.gif"/>
 </p>
 
 <h1 align="center">전양호 (Yangho Jeon)</h1>
