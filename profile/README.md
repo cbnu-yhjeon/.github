@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/cbnu-yhjeon/.github/blob/main/outlook_headerbanner_1.gif"/>
+  <img src="https://github.com/cbnu-yhjeon/.github/blob/main/outlook_headerbanner_1.gif"/>
 </p>
 
 <h1 align="center">전양호 (Yangho Jeon)</h1>
@@ -12,14 +12,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:<yhjeon@chunhbuk.ac.kr>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://c-bike.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-12B886?style=for-the-badge&logo=velog&logoColor=white"></a>
-<!--   <a href="<포트폴리오_또는_이력서_URL(Notion)>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a> -->
+  <a href="mailto:yhjeon@chungbuk.ac.kr">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://c-bike.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech_Blog-12B886?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 💻 기술 스택 (Tech Stack)
+## 💻 기술 스택 (Tech Stack)
 제가 다룰 수 있고, 익숙해지기 위해 노력하는 기술들입니다.
 
 <p align="center">
@@ -27,17 +30,23 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br>
+</p>
+
+<p align="center">
   <b>AI / ML</b><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <br>
+</p>
+
+<p align="center">
   <b>Robotics</b><br>
   <img src="https://img.shields.io/badge/ROS2-22538E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autoware-5E80EF?style=for-the-badge&logo=autowarefoundation&logoColor=white"/>
-  <br>
+</p>
+
+<p align="center">
   <b>Tools & Etc.</b><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -46,101 +55,25 @@
 
 ---
 
-### 🚀 참여 프로젝트 (Featured Projects)
+## 🚀 참여 프로젝트 (Featured Projects)
 교내외 활동을 통해 진행했던 주요 프로젝트들입니다.
 
 | 프로젝트 | 주요 내용 | 사용한 기술 | 저장소 |
 |---|---|---|---|
-
-| **차량 CAN 이상탐지
-### 💻 기술 스택 (Tech Stack)
-제가 다룰 수 있고, 익숙해지기 위해 노력하는 기술들입니다.
-
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br>
-  <b>AI / ML</b><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <br>
-  <b>Robotics</b><br>
-  <img src="https://img.shields.io/badge/ROS2-22538E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autoware-5E80EF?style=for-the-badge&logo=autowarefoundation&logoColor=white"/>
-  <br>
-  <b>Tools & Etc.</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+| **차량 CAN 이상탐지** | 차량 CAN 신호의 정상 동작 패턴을 학습해 이상 징후를 조기에 탐지하는 데이터 기반 차량 이상탐지 프로젝트 | Python, PyTorch, TensorFlow | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-CAN-Anomaly-Detection) |
+| **서울시 자전거 수요 예측** | 기상·시간·공간 데이터를 결합해 서울시 공공자전거 수요를 예측하고 운영 의사결정을 지원하는 프로젝트 | Python, PyTorch, TensorFlow | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Bicyle-Demand-Forecasting) |
+| **아타리 마운틴카 (RL)** | 강화학습을 적용해 아타리 마운틴카 환경에서 에이전트를 학습시키는 프로젝트 | Python, Gym, PyTorch | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/DQN) |
+| **손글씨 인식 프로그램** | CNN 기반 딥러닝 모델을 활용한 손글씨 인식 애플리케이션 | Python, TensorFlow, Keras | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Handwriting-recognition-programs) |
+| **견종 인식 프로그램** | 이미지 분류 모델을 활용해 강아지 사진으로 견종을 분류하는 시스템 | Python, PyTorch, OpenCV | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Breed-Recognition-Program) |
+| **아타리 퐁 (RL)** | 강화학습을 이용해 아타리 퐁 게임을 학습하는 AI 에이전트 | Python, Gym, PyTorch | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/AdvancedMethods) |
 
 ---
 
-### 🚀 참여 프로젝트 (Featured Projects)
-교내외 활동을 통해 진행했던 주요 프로젝트들입니다.
-
-| 프로젝트 | 주요 내용 | 사용한 기술 | 저장소 |
-|---|---|---|---|
-
-| **차량 CAN 이상탐지** | 차량 CAN 신호의 정상 동작 패턴을 학습해 이상 징후를 조기에 탐지하는 데이터 기반 차량 이상탐지 프로젝트 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-CAN-Anomaly-Detection) |
-| **서울시 자전거 수요 예측** | 기상·시간·공간 데이터를 결합해 서울시 공공자전거 수요를 예측하고 운영 의사결정을 지원하는 데이터 분석·예측 프로젝트 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Bicyle-Demand-Forecasting) |
-| **아타리 마운틴 카 게임** | 강화 학습(Reinforcement Learning)을 적용하여 아타리 마운틴 카 게임에서 높은 점수를 획득하도록 학습하는 AI 에이전트 구축 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/DQN) |
-| **손 글씨 인식 프로그램** | 딥러닝 모델(CNN)을 활용하여 사용자의 손 글씨를 인식하고 텍스트로 변환하는 애플리케이션 개발 | `Python`, `TensorFlow`, `Keras` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Handwriting-recognition-programs) |
-| **견종 인식 프로그램** | 이미지 분류 모델(CNN)을 통해 업로드된 강아지 사진으로부터 견종을 분류하고 정보를 제공하는 시스템 구현 | `Python`, `PyTorch`, `OpenCV` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Breed-Recognition-Program) |
-| **아타리 퐁 게임** | 강화 학습(Reinforcement Learning)을 이용하여 아타리 퐁 게임을 플레이하고 학습하는 AI 에이전트 개발 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/AdvancedMethods) |
-| **아타리 마운틴 카 게임** | 강화 학습(Reinforcement Learning)을 적용하여 아타리 마운틴 카 게임에서 높은 점수를 획득하도록 학습하는 AI 에이전트 구축 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/DQN) |
-
-
----
-
-### 💡 학력 및 활동 (Education & Activities)
+## 💡 학력 및 활동 (Education & Activities)
 
 - **충북대학교 산업인공지능학과 석사과정** (2025.03 ~ 현재)
-<p align="left">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/강화%20학습%20실체-FFD700?style=for-the-badge&logoColor=black"/>
-      </td>
-      <td valign="top">
-        : 이론을 바탕으로 실제 강화 학습 시스템을 구축하고 최적화하는 방법을 학습합니다.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/영상%20처리%20실체-007ACC?style=for-the-badge&logoColor=white"/>
-      </td>
-      <td valign="top">
-        :  다양한 영상 처리 기법과 컴퓨터 비전 알고리즘을 실제 프로젝트에 적용하며 깊이 있는 이해를 얻습니다.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/딥러닝%20실체-424242?style=for-the-badge&logoColor=white"/>
-      </td>
-      <td valign="top">
-        :  딥러닝 모델의 설계, 구현, 학습 및 평가 과정을 실습하며, 실제 문제 해결 능력을 키웁니다.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/패턴인식-FF5733?style=for-the-badge&logoColor=white"/>
-      </td>
-      <td valign="top">
-        :  데이터에서 패턴을 찾아내고 분류·예측 모델을 설계하는 기법을 학습합니다.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/어프랜티스%20프로젝트-2E8B57?style=for-the-badge&logoColor=white"/>
-      </td>
-      <td valign="top">
-        :  실제 산업 문제를 기반으로 팀 프로젝트를 수행하며, 연구·개발 경험을 쌓습니다.
-      </td>
-    </tr>
-  </table>
-</p>
+  - 강화학습 실체: 강화학습 이론과 실제 시스템 구현
+  - 영상처리 실체: 컴퓨터 비전 및 영상 처리 알고리즘 실습
+  - 딥러닝 실체: 딥러닝 모델 설계·학습·평가
+  - 패턴인식: 데이터 기반 분류·예측 모델링
+  - 어프랜티스 프로젝트: 산업 문제 기반 팀 프로젝트 수행
