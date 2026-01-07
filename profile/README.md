@@ -51,10 +51,49 @@
 
 | 프로젝트 | 주요 내용 | 사용한 기술 | 저장소 |
 |---|---|---|---|
+
+| **차량 CAN 이상탐지
+### 💻 기술 스택 (Tech Stack)
+제가 다룰 수 있고, 익숙해지기 위해 노력하는 기술들입니다.
+
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br>
+  <b>AI / ML</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <br>
+  <b>Robotics</b><br>
+  <img src="https://img.shields.io/badge/ROS2-22538E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autoware-5E80EF?style=for-the-badge&logo=autowarefoundation&logoColor=white"/>
+  <br>
+  <b>Tools & Etc.</b><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 참여 프로젝트 (Featured Projects)
+교내외 활동을 통해 진행했던 주요 프로젝트들입니다.
+
+| 프로젝트 | 주요 내용 | 사용한 기술 | 저장소 |
+|---|---|---|---|
+
+| **차량 CAN 이상탐지** | 차량 CAN 신호의 정상 동작 패턴을 학습해 이상 징후를 조기에 탐지하는 데이터 기반 차량 이상탐지 프로젝트 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-CAN-Anomaly-Detection) |
+| **서울시 자전거 수요 예측** | 기상·시간·공간 데이터를 결합해 서울시 공공자전거 수요를 예측하고 운영 의사결정을 지원하는 데이터 분석·예측 프로젝트 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Bicyle-Demand-Forecasting) |
+| **아타리 마운틴 카 게임** | 강화 학습(Reinforcement Learning)을 적용하여 아타리 마운틴 카 게임에서 높은 점수를 획득하도록 학습하는 AI 에이전트 구축 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/DQN) |
 | **손 글씨 인식 프로그램** | 딥러닝 모델(CNN)을 활용하여 사용자의 손 글씨를 인식하고 텍스트로 변환하는 애플리케이션 개발 | `Python`, `TensorFlow`, `Keras` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Handwriting-recognition-programs) |
 | **견종 인식 프로그램** | 이미지 분류 모델(CNN)을 통해 업로드된 강아지 사진으로부터 견종을 분류하고 정보를 제공하는 시스템 구현 | `Python`, `PyTorch`, `OpenCV` | [🔗 Link](https://github.com/cbnu-yhjeon/PROJECT-Breed-Recognition-Program) |
 | **아타리 퐁 게임** | 강화 학습(Reinforcement Learning)을 이용하여 아타리 퐁 게임을 플레이하고 학습하는 AI 에이전트 개발 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/AdvancedMethods) |
 | **아타리 마운틴 카 게임** | 강화 학습(Reinforcement Learning)을 적용하여 아타리 마운틴 카 게임에서 높은 점수를 획득하도록 학습하는 AI 에이전트 구축 | `Python`, `Gym`, `PyTorch` / `TensorFlow` | [🔗 Link](https://github.com/cbnu-yhjeon/Reinforcement-Learning-Entities/tree/main/DQN) |
+
 
 ---
 
